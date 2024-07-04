@@ -32,7 +32,7 @@
 ### Links
 
 - Solution URL: [GIT_URL](https://github.com/MR-M4N1/Stats_preview_card_component)
-- Live Site URL: [GIT_LIV]()
+- Live Site URL: [GIT_LIV](https://mr-m4n1.github.io/Stats_preview_card_component/)
 
 
 ### Built with
